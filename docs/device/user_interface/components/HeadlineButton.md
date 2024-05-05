@@ -42,7 +42,7 @@ Page(ListView.makePage(new MyPage()));
 
 ## Use cases
 
-This component is designed to be used in header and/or footer of [ListView](../Compositors/ListView) compositor. It can be used to provide out-of-context page action, example to open “About this app” or settings dialog.
+This component is designed to be used in header and/or footer of [ListView](../compositors/ListView) compositor. It can be used to provide out-of-context page action, example to open “About this app” or settings dialog.
 
 ## Design and layout
 

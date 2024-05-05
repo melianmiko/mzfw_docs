@@ -15,8 +15,8 @@ const config: Config = {
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'melinamiko', // Usually your GitHub org/user name.
-  projectName: 'mzfw', // Usually your repo name.
+  organizationName: 'melianmiko', // Usually your GitHub org/user name.
+  projectName: 'mzfw_docs', // Usually your repo name.
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',

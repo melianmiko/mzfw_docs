@@ -53,7 +53,7 @@ Designed to be used in [ListView](../compositors/ListView) compositor. This comp
 
 ## Design & layout
 
-Background is inherited from Paper component, and in default settings is black for Amazfit devices, and grey for Mi Band 7. Text & background colors by default are nested from [compositor's theme](../Compositor/Theme), and can be overridden in properties. Font size is also read from theme, for description it will be less by `2px`.
+Background is inherited from Paper component, and in default settings is black for Amazfit devices, and grey for Mi Band 7. Text & background colors by default are nested from [compositor's theme](../theming), and can be overridden in properties. Font size is also read from theme, for description it will be less by `2px`.
 
 Icon used in this component should be available in following sizes:
 
