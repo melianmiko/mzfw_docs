@@ -44,7 +44,7 @@ class MyPage extends ListView {
   }
 }
 
-Page(ListView.makePage(MyPage));
+Page(ListView.makePage(new MyPage({})));
 ```
 
 ## Use cases
